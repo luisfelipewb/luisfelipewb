@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Here you can find repositories related to:
+- 🎓 Some projects related to my ongoing Ph.D.
+- 🤖 Online courses on robotics (Sensor Fusion and Robotics Nannodegree from Udacity).
+- 🤫 Projects from Georgia Tech classes (Those are private. Sorry).
+- 💻 Some other random and fun repositories.
+
 <!--
 **luisfelipewb/luisfelipewb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
